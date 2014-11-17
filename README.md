@@ -15,6 +15,8 @@
 
 Dockerfile to build a MySQL container image which can be linked to other containers.
 
+This also allows specifying a .sql file to use on import with `DB_IMPORT`
+
 # Contributing
 
 If you find this image useful here's how you can help:
